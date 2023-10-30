@@ -12,6 +12,12 @@ this architectural diagram below will better breakdown the project
 ![image](https://github.com/AMARACHICLOUDHIGHT/pet-adoption-ansible-auto-discovery-2023/assets/146545412/12c24fb6-88d5-4b86-9018-8b10574fd472)
 <img width="1075" alt="Screenshot 2023-10-30 at 10 30 00 AM" src="https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/67002c5a-07a4-4e2d-99a2-6b3441234c95">
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/e0325548-e499-4a50-8bc4-a4dd758017ea)
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/e6b41b4c-7903-4400-9808-f1ab4b4f6483)
+ssh into jenkins to get password
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/09c4d42a-65ef-46ed-9de1-ee173849670b)
+ssh into nexus for nexus password
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/66ee6c7d-9393-4116-b4d4-1b2b97122622)
+key path
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/bff29fc1-f039-4bc7-a9e6-9f740d212bb6)
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/81c5e74d-aea9-40c4-b8c1-e740fe26e992)
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/a8f22920-fffa-4c93-87ab-c96e664f8465)
