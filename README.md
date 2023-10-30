@@ -9,3 +9,35 @@ By diligently following these instructions, you will be well-prepared to embark 
 this architectural diagram below will better breakdown the project
 
 ![image](https://github.com/AMARACHICLOUDHIGHT/pet-adoption-ansible-auto-discovery-2023/assets/146545412/12c24fb6-88d5-4b86-9018-8b10574fd472)
+step 1 vault token generation 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/415d3294-4a78-47f6-b6bf-abc57948aa5c)
+step 2 vault logged in and initalized
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/cf4e1de8-806d-47fb-96b5-e07edd30df51)
+step 3 all ips ready for deployment 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/14525014-bfb0-42ff-822d-8deea0ee08cf)
+step 4 we go into our bastion host in order to be able to access our jenkins server in the private subnet 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/3ac932e9-cc8b-46aa-9222-0e9a8c0a72cd)
+step 5 we fetch our jenkins password 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/51d0e27f-b3df-4a7a-ae9b-9cb6b7768d47)
+step 6 log into our jenkins
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/c46e0f99-c6b4-4291-a829-7afda137add5)
+step 7 creating webhook 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/0f6a157f-01c0-40dd-8d0b-a3022aec56a4)
+step 8 generate token 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/f2be3d28-95e0-4ec4-89cd-f89db3bb7019)
+step 9 installing pluggins
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/4a639d01-c879-47ff-bb38-868dc5ade455)
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/568958e8-79be-459d-9f44-45fd78419b03)
+step 10 part for our version 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/4ac232d6-71f1-41dd-9478-1f81efad5ec5)
+step 11 nexus repo created with docker bearer token added
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/d284f8fc-6f1d-4eeb-81b9-df55e3fe3f94)
+step 12 all credentials created
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/53fde520-1d05-4e71-8405-51727169c74f)
+step 13 api token generated 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/dd222878-2958-4b63-88f0-3e49d4a776a9)
+step 14 github webhook created 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/176b26f9-239a-4f65-aebd-d806dabc1b61)
+
+
+
