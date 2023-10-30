@@ -38,6 +38,11 @@ step 13 api token generated
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/dd222878-2958-4b63-88f0-3e49d4a776a9)
 step 14 github webhook created 
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/176b26f9-239a-4f65-aebd-d806dabc1b61)
+step 15 pipline deployed 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/0e9fe761-0970-45d5-a7ab-06d8110e4287)
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/b93db66a-7269-4d0f-b745-da49dc0d56e0)
+step 16 vault logged in using the domain name 
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/7e823cad-7175-4253-a90c-52c7739fd9d5)
 
 
 
