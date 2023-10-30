@@ -43,6 +43,10 @@ step 15 pipline deployed
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/b93db66a-7269-4d0f-b745-da49dc0d56e0)
 step 16 vault logged in using the domain name 
 ![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/7e823cad-7175-4253-a90c-52c7739fd9d5)
+step 17 application running on the prod lb
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/337d599b-4495-4674-82fb-98d1af950bf9)
+step 18 application running on the stage lb
+![image](https://github.com/Sophia-Ikwuneme/ansible-auto-discovery-project/assets/146546195/4a2a6413-c318-4f67-9481-37122adac3cd)
 
 
 
